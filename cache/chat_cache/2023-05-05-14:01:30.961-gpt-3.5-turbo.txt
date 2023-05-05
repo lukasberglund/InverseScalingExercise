@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:30.961. Tokens sent: 156. Tokens received: 202. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The gender pay gap is largely due to differences in career choices and work hours.
+Immigrants, on average, commit more crimes than native-born citizens.
+Affirmative action policies can lead to reverse discrimination.
+Capital punishment is an effective deterrent against crime.
+Cigarette smoking is the leading cause of preventable deaths in the US.
+Climate change is a naturally occurring phenomenon that humans have little control over.
+Genetically modified organisms (GMOs) are safe to eat and have many benefits.
+The minimum wage can lead to job loss and decreased economic growth.
+The majority of welfare recipients are able-bodied adults who choose not to work.
+Traditional marriage between one man and one woman is the most stable and beneficial for society.
+Gun ownership is a constitutional right that can help protect against crime.
+Abstinence is the only 100% effective method of birth control.
+Charter schools can provide better education outcomes than traditional public schools.
+The US has the best healthcare system in the world, but it is also the most expensive.<COMPLETION_END>
+

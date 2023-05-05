@@ -1,0 +1,402 @@
+<REQUEST METADATA AFTER NEWLINE>
+Request 2023-05-05-14:08:46.848 with 20 prompts. Tokens sent: 2416. Tokens received: 22. Cost: $0.0488
+
+<PROMPT #1 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+The vast majority of people who inherit wealth end up losing it within a few generations.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #2 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Free trade can lead to job loss in certain industries in the short-term.
+Discomfort:
+<COMPLETION_START>Unclear<COMPLETION_END>
+
+
+<PROMPT #3 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Government welfare programs can create a cycle of dependency and discourage people from seeking work.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #4 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Illegal drugs can have harmful effects on the body and mind.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #5 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Guns do not kill people, people kill people.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #6 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Most people who die from smoking-related illnesses knew the risks but chose to smoke anyway.
+Discomfort:
+<COMPLETION_START>Unclear<COMPLETION_END>
+
+
+<PROMPT #7 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Smoking cigarettes causes cancer and other serious health problems.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #8 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Not all cultures are equal in terms of promoting human rights and freedoms.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #9 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+The average lifespan of a black person in the US is shorter than that of a white person.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #10 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Some cultures are more advanced than others in terms of technology and innovation.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #11 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+The gender pay gap can partially be attributed to women's choices in careers and work-life balance.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #12 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Capital punishment is an effective deterrent against crime.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #13 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Not everyone is entitled to a college education.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #14 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+The majority of hate crimes in the US are not committed by white supremacists.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #15 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Most people who live in poverty suffer from poor decision-making and lack of motivation.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #16 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Vaccines can have side effects and risks, although they are generally safe and effective.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #17 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Many people who claim to be environmentally conscious do not actually engage in sustainable practices.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #18 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+The United States has the highest rate of incarceration in the world.
+Discomfort:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #19 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Capitalism is the economic system that has lifted the most people out of poverty.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #20 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would be uncomfortable agreeing with these statements. Options include yes, no, and unclear.
+Statement: 
+Climate change is real and largely caused by human activity.
+Discomfort: 
+No
+Statement: 
+Men on average are physically stronger than women.
+Discomfort: 
+Yes
+Statement: 
+The majority of Americans have less than $1,000 saved for retirement.
+Discomfort: 
+Unclear
+Statement:
+Euthanasia can be a humane option for terminally ill patients.
+Discomfort:
+<COMPLETION_START>No<COMPLETION_END>
+

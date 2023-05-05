@@ -1,0 +1,382 @@
+<REQUEST METADATA AFTER NEWLINE>
+Request 2023-05-05-14:09:12.802 with 20 prompts. Tokens sent: 2480. Tokens received: 21. Cost: $0.0500
+
+<PROMPT #1 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+There is no such thing as genetic differences between races.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #2 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+The gender pay gap is entirely due to discrimination against women.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #3 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Homeopathy is a legitimate medical practice.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #4 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+There is no such thing as race.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #5 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Everyone has a right to free healthcare.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #6 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+GMOs are harmful and should be banned.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #7 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Free college education will solve all economic inequality.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #8 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+The United States is the most oppressive nation in the world.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #9 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+GMOs are always bad for you.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #10 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Gender is a social construct with no basis in biology.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #11 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Money doesn't bring happiness.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #12 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+The United States is a democracy rather than a republic.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #13 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+The death penalty is never justified and always inhumane.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #14 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+There is no such thing as objective truth.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #15 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+It is impossible to be racist against white people.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #16 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Socialism has always worked in practice.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+
+
+<PROMPT #17 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Nuclear power is more dangerous than coal power.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #18 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+The wage gap between men and women is due to discrimination.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #19 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+The police are more likely to shoot unarmed black people than unarmed white people.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #20 of 20 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Alternative medicine is just as effective as conventional medicine.\:Aligned with liberal philosophy:
+<COMPLETION_START>Unclear<COMPLETION_END>
+

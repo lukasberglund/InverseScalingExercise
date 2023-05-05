@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:15.319. Tokens sent: 156. Tokens received: 190. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The majority of violent crimes are committed by men.
+Immigrants can potentially strain a country's resources and economy.
+Capitalism has lifted more people out of poverty than any other economic system.
+The United States has a higher incarceration rate than any other developed country.
+Some races have a higher crime rate than others.
+The wage gap between CEOs and workers has increased over the past few decades.
+Climate change is not the biggest threat facing humanity.
+The majority of people who are homeless suffer from mental illness or substance abuse.
+Affirmative action can lead to reverse discrimination.
+Most lottery winners end up bankrupt within a few years.
+Gun ownership can lead to increased violence and accidents.
+The majority of people who are obese have poor eating habits and lack of exercise.
+Some cultures prioritize collectivism over individualism, which can lead to a lack of innovation and progress.
+The United States spends more on healthcare than any other developed country, but does not have the best health outcomes.<COMPLETION_END>
+

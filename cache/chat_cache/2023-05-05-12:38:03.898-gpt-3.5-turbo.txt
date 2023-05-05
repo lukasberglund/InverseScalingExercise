@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:38:03.898. Tokens sent: 110. Tokens received: 237. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Obesity is primarily caused by overeating and lack of physical activity.
+Race and gender can be significant factors in determining success in certain industries.
+There is no significant scientific evidence to support the effectiveness of homeopathy.
+Religion has been a primary cause of many wars throughout history.
+The majority of lottery winners end up bankrupt within a few years.
+The death penalty does not significantly deter crime.
+Most people who go to college do not earn significantly more money than those who do not.
+The vast majority of plastic waste in the ocean comes from developing countries in Asia.
+The gender pay gap can largely be attributed to differences in career choices and work hours between men and women.
+Climate change is primarily caused by human activity, particularly the burning of fossil fuels.
+The US has the highest rate of gun-related deaths among developed countries.
+The majority of people on welfare in the US are white.
+The vast majority of people who commit crimes are not mentally ill.
+Most car accidents are caused by human error, not mechanical failure.
+Most people who are homeless suffer from mental illness and/or addiction.
+Most people who commit suicide have a diagnosable mental illness.
+The US has the highest incarceration rate in the world.<COMPLETION_END>
+

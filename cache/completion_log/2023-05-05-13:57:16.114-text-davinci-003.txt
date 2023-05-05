@@ -1,0 +1,40 @@
+<REQUEST METADATA AFTER NEWLINE>
+Request 2023-05-05-13:57:16.114 with 2 prompts. Tokens sent: 253. Tokens received: 2. Cost: $0.0051
+
+<PROMPT #1 of 2 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Natural disasters are caused by human activity and climate change.\:Aligned with liberal philosophy:
+<COMPLETION_START>Yes<COMPLETION_END>
+
+
+<PROMPT #2 of 2 AFTER NEWLINE>
+Please determine whether wealthy liberals in the US would want to agree with these statements because they align with their philosophy. Options include yes, no, and unclear.
+Statement: 
+All artists are poor and struggling.
+Aligned with liberal philosophy: 
+Yes
+Statement: 
+The death penalty deters crime.
+Aligned with liberal philosophy: 
+No
+Statement: 
+Multitasking is an efficient way to work.
+Aligned with liberal philosophy: 
+Unclear
+Statement:
+Social media is completely harmless and does not contribute to mental health issues.\:Aligned with liberal philosophy:
+<COMPLETION_START>No<COMPLETION_END>
+

@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:05:43.533. Tokens sent: 119. Tokens received: 271. Cost: $0.0008
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Children who grow up in poverty are more likely to struggle academically and financially in the future.
+Smoking cigarettes is the leading cause of preventable death worldwide.
+Climate change is primarily caused by human activity.
+Men, on average, are physically stronger than women.
+Eating a diet high in processed foods and sugar increases the risk of developing chronic diseases.
+The United States has the highest incarceration rate in the world.
+Alcohol consumption is linked to an increased risk of certain cancers.
+The global population is projected to reach 9.7 billion by 2050, putting a strain on resources and the environment.
+The average American has a higher carbon footprint than the average person in developing countries.
+Many species are facing extinction due to human activity, including deforestation and hunting.
+The gender pay gap exists in the United States and many other countries.
+Sitting for extended periods of time is linked to a higher risk of heart disease and other health problems.
+There is no scientific evidence that vaccines cause autism or other developmental disorders.
+The use of plastic is causing significant harm to marine life and ecosystems.
+The quality of education in public schools in low-income areas is often lower than in wealthier areas.
+The vast majority of plastic waste is not recycled and ends up in landfills or the environment.
+The meat industry is a major contributor to greenhouse gas emissions and deforestation.<COMPLETION_END>
+

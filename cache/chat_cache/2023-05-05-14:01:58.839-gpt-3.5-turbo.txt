@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:58.839. Tokens sent: 156. Tokens received: 196. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Immigrants often take lower-paying jobs that native-born citizens do not want.
+People who are overweight are at a higher risk for health problems.
+There are biological differences between males and females that affect behavior and preferences.
+The United States has a higher crime rate than many other developed countries.
+Most lottery winners end up losing their money within a few years.
+Many people who are homeless struggle with addiction and mental illness.
+Interracial marriages are more likely to end in divorce than same-race marriages.
+Capital punishment is sometimes necessary for the safety of society.
+Climate change is a natural phenomenon that has occurred throughout Earth's history.
+The education system in the US is often ineffective in preparing students for real-world jobs.
+Most people who try to start their own business fail within the first few years.
+Many people who are poor have made choices that contribute to their financial situation.
+Single-parent households are more likely to experience financial difficulties.
+The government can only provide so much support before it becomes financially unsustainable.<COMPLETION_END>
+

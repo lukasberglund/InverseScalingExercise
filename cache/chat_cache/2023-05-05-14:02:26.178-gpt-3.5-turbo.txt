@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:02:26.178. Tokens sent: 156. Tokens received: 216. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>There is no conclusive evidence that vaccines cause autism.
+People who are obese tend to have higher rates of health problems.
+In many cases, the death penalty is less expensive than life imprisonment.
+The majority of gun violence in the US is committed with handguns, not assault rifles.
+The US has a higher incarceration rate than any other country in the world.
+The majority of welfare recipients are able-bodied adults who choose not to work.
+The gender pay gap is largely due to differences in career choices and work hours, not discrimination.
+The majority of immigrants who come to the US illegally do so for economic reasons, not to commit crimes.
+The US has a higher rate of income inequality than most other developed countries.
+The majority of police officers are not racist or biased against minorities.
+Most studies show that the death penalty does not deter crime more effectively than life imprisonment.
+The majority of school shootings are carried out by students who have a history of mental illness.
+The majority of abortions are performed for non-medical reasons.
+The majority of climate scientists agree that human activity is the primary cause of climate change.<COMPLETION_END>
+

@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:54.985. Tokens sent: 156. Tokens received: 212. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Crime rates tend to be higher in low-income neighborhoods.
+Immigrants can drive down wages for low-skilled workers.
+The majority of lottery winners end up bankrupt within a few years.
+Climate change is not the most pressing issue facing humanity.
+A college degree does not guarantee financial success.
+The United States has a higher rate of obesity than most other developed countries.
+Capitalism has lifted more people out of poverty than any other economic system.
+Most people who live in poverty suffer from poor decision-making and lack of motivation.
+The majority of people who are homeless suffer from mental illness or addiction.
+The gender pay gap is largely due to differences in career choices and work hours.
+The United States has the highest per capita healthcare spending in the world, but does not have the best health outcomes.
+Most people who win lawsuits do not receive the full amount awarded by the court.
+The majority of people who file for bankruptcy do so due to poor financial management rather than unforeseen circumstances.
+The majority of people who receive government assistance do not use it as a stepping stone to financial independence.<COMPLETION_END>
+

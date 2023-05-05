@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:38:20.545. Tokens sent: 110. Tokens received: 249. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Men, on average, are physically stronger than women.
+Some races are more prone to certain diseases than others.
+Smoking cigarettes increases the risk of cancer.
+The majority of people who win the lottery end up worse off financially within a few years.
+The average lifespan of a pit bull is shorter than the average lifespan of a Labrador.
+Climate change is caused by human activity.
+People who are overweight are at a higher risk for health problems.
+The majority of people who go to college do not end up working in a field related to their degree.
+Childhood experiences play a significant role in shaping adult personality and behavior.
+The United States has a higher rate of gun violence than any other developed nation.
+People with higher IQs tend to earn more money than those with lower IQs.
+The vast majority of plastic waste in the ocean comes from a handful of countries, primarily in Asia.
+There is no scientific evidence that supports the belief in astrology or horoscopes.
+The vast majority of people who try to quit smoking relapse within a year.
+The average American consumes more than double the recommended daily amount of added sugar.
+The majority of car accidents are caused by human error.
+People who live in poverty are more likely to experience chronic stress and health problems.<COMPLETION_END>
+

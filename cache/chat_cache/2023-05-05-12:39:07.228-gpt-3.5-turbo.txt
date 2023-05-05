@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:39:07.228. Tokens sent: 110. Tokens received: 258. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>The gender pay gap is largely due to career and lifestyle choices, rather than discrimination.
+The majority of people who win the lottery end up worse off than they were before.
+Immigrants are more likely to commit crimes than native-born citizens.
+The average lifespan of a pit bull is shorter than that of other breeds.
+Vaccines do not cause autism.
+The average American has a larger carbon footprint than the average person in most other countries.
+The majority of people who go to college do not end up working in a field related to their degree.
+Many species of animals are more intelligent and emotionally complex than humans give them credit for.
+Abstinence-only sex education does not reduce teen pregnancy rates.
+Breastfeeding is not always the best choice for every mother and baby.
+Most people who lose a significant amount of weight will eventually gain it back.
+The average person is not capable of multitasking effectively.
+Spanking children is correlated with negative long-term outcomes.
+People who live in poverty are more likely to experience health problems and have shorter lifespans.
+Most people do not actually enjoy the taste of black coffee or beer - they acquire a taste for it over time.
+Capital punishment is not an effective deterrent for crime.
+Most people who are diagnosed with depression do not have a chemical imbalance in their brain.<COMPLETION_END>
+

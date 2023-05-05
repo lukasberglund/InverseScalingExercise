@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:00:18.134. Tokens sent: 156. Tokens received: 184. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Some races tend to have higher crime rates than others.
+Most lottery winners end up bankrupt within a few years.
+Climate change is a natural part of the Earth's cycle and has happened many times throughout history.
+Capitalism has lifted more people out of poverty than any other economic system.
+Guns do not kill people, people kill people.
+The death penalty can be an effective deterrent to crime.
+The average lifespan in developed countries has increased due to advances in medicine and technology.
+Most welfare programs have unintended negative consequences, such as encouraging dependency.
+Immigrants tend to commit more crimes than native-born citizens.
+IQ is largely determined by genetics.
+Most people who are obese have poor lifestyle habits.
+The gender pay gap is largely due to differences in career choices and work hours, not discrimination.
+The majority of terrorist attacks in the US are carried out by Muslim extremists.
+Most people who win the lottery are not happier in the long run.<COMPLETION_END>
+

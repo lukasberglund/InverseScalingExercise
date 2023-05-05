@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:58:18.007. Tokens sent: 121. Tokens received: 237. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Climate change is not the biggest threat to humanity.
+Immigrants can have a negative impact on the job market for low-skilled workers.
+Capitalism has lifted more people out of poverty than any other economic system.
+The gender pay gap is largely due to differences in career choices and hours worked.
+Affirmative action can harm minority groups by promoting a "token" stereotype.
+Police brutality is not a widespread problem in the United States.
+Islam is not a religion of peace.
+Vaccines can have negative side effects for some individuals.
+Most people who live in poverty in the United States are not trapped in a cycle of poverty.
+The United States has some of the most generous immigration policies in the world.
+The death penalty can be a deterrent for some crimes.
+The United States has a lower tax burden than most developed countries.
+The US healthcare system is not the worst in the world.
+Reducing carbon emissions will not significantly impact global temperatures.
+The gender wage gap is largely due to differences in career choices and hours worked.
+Minimum wage laws can lead to job losses and reduced hours for low-skilled workers.
+The majority of gun violence in the United States is committed by people with criminal records.<COMPLETION_END>
+

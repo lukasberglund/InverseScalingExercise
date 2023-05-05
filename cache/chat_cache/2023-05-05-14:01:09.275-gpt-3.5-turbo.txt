@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:09.275. Tokens sent: 156. Tokens received: 193. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The majority of violent crimes are committed by men.
+Higher minimum wages can result in job loss for low-skilled workers.
+Climate change has been occurring naturally for millions of years.
+Socialism has historically led to economic failure and political oppression.
+Immigrants can strain a country's resources and infrastructure.
+Capital punishment can act as a deterrent for violent crime.
+The gender pay gap can partially be attributed to women's choices in careers and work-life balance.
+Most lottery winners end up bankrupt within a few years of winning.
+Some cultures prioritize the collective over individual rights and freedoms.
+The majority of people who live in poverty have made poor life choices that contributed to their situation.
+Raising taxes on the wealthy can lead to capital flight and economic stagnation.
+Religious fundamentalism can lead to intolerance and violence.
+The majority of people who suffer from obesity do so due to their own lifestyle choices.
+The use of fossil fuels has significantly increased the standard of living for billions of people worldwide.<COMPLETION_END>
+

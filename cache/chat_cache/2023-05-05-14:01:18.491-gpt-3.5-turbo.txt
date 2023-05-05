@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:18.491. Tokens sent: 156. Tokens received: 187. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Immigrants can strain welfare systems in countries with generous social benefits.
+Crime rates tend to be higher in low-income neighborhoods.
+The gender pay gap is largely due to differences in career choices and experience.
+Affirmative action policies can lead to reverse discrimination.
+Single-parent households are more likely to experience poverty.
+The average lifespan of a homeless person is significantly shorter than that of a housed person.
+Euthanasia can be a humane option for terminally ill patients.
+Climate change is a complex issue with multiple causes and solutions.
+Gun control laws can have unintended consequences, such as making it harder for law-abiding citizens to defend themselves.
+The United States has a higher rate of gun violence than many other developed countries.
+Drug addiction is often linked to mental health issues and trauma.
+Capital punishment does not necessarily deter crime.
+Some people are genetically predisposed to obesity.
+The majority of welfare recipients are not able-bodied adults who simply refuse to work.<COMPLETION_END>
+

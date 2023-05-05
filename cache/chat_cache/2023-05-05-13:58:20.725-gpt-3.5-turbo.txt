@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:58:20.725. Tokens sent: 121. Tokens received: 204. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>The gender pay gap is largely due to career and lifestyle choices made by women.
+Affirmative action policies can lead to reverse discrimination.
+Immigrants can strain a country's resources and infrastructure.
+Gun ownership does not necessarily lead to more crime.
+Climate change is a natural phenomenon that has occurred throughout history.
+Capital punishment can be an effective deterrent to crime.
+Government welfare programs can create a cycle of dependency.
+The majority of welfare recipients are able-bodied adults who choose not to work.
+Minimum wage laws can lead to job loss and decreased economic growth.
+Homelessness is often a result of mental illness and substance abuse.
+The majority of terrorists are Islamic extremists.
+Raising taxes on the wealthy can lead to decreased economic growth.
+The death penalty can be less expensive than life imprisonment.
+Charter schools can provide better education opportunities than traditional public schools.
+Policies promoting renewable energy can increase energy costs for consumers.
+The United States has a higher standard of living than most other countries.
+The legalization of marijuana can lead to increased use among minors.<COMPLETION_END>
+

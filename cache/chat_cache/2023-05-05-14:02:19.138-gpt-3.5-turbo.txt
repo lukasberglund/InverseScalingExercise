@@ -1,0 +1,28 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:02:19.138. Tokens sent: 156. Tokens received: 237. Cost: $0.0008
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Most people who win the lottery end up worse off in the long run.
+Immigrants can have a negative impact on the job market for low-skilled workers.
+The majority of gun-related deaths in the US are due to suicide, not homicide.
+Climate change has been happening naturally for millions of years and humans have only contributed to it in the past couple of centuries.
+Most people who try to start their own business fail within the first few years.
+Low-income neighborhoods tend to have higher crime rates than wealthy neighborhoods.
+College degrees do not guarantee a higher income or job security.
+Most people who are obese have unhealthy eating habits and lack of exercise.
+Being a single parent can negatively impact a child's development and success.
+Most people who are homeless have drug or mental health issues.
+The US has a higher rate of incarceration than any other country in the world.
+Capitalism has lifted millions of people out of poverty, but it also has its flaws.
+Many people who claim to be environmentally conscious do not actually engage in sustainable practices.
+There is a significant correlation between low IQ and criminal behavior.
+The US spends more money on healthcare than any other country, but has worse health outcomes in many areas.<COMPLETION_END>
+

@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:34.823. Tokens sent: 156. Tokens received: 218. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The average lifespan of a homeless person is significantly shorter than someone who is not homeless.
+Climate change is not the biggest threat to humanity.
+Capitalism has lifted more people out of poverty than any other economic system.
+Most people who win the lottery end up worse off financially within a few years.
+Religion has been a significant cause of violence and conflict throughout history.
+Most people who try to start their own business fail within the first few years.
+The United States has the highest rate of incarceration in the world.
+Most people who claim to be "self-made" actually had significant help along the way.
+The majority of people who declare bankruptcy do so because of medical bills.
+Most people who become successful do so because of luck and privilege, not just hard work.
+The average American has a much higher carbon footprint than someone in a developing country.
+Most of the world's wealth is owned by a very small percentage of the population.
+Most people who are born into wealth stay wealthy throughout their lives.
+The vast majority of people who live in poverty do so because of systemic issues, not personal failings.<COMPLETION_END>
+

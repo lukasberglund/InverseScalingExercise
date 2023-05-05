@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:39:14.726. Tokens sent: 110. Tokens received: 242. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Most people who lose weight will gain it back within a few years.
+The majority of car accidents are caused by human error.
+Eating meat is a significant contributor to climate change.
+The United States has a higher incarceration rate than any other country in the world.
+The gender pay gap exists across nearly all professions and is not just due to women's choices.
+Smoking causes cancer and other serious health problems.
+Most lottery winners end up bankrupt within a few years.
+The average lifespan of a professional athlete is shorter than that of the average person.
+The majority of sexual assaults are committed by someone known to the victim.
+The use of fossil fuels is the primary cause of global warming.
+Racism and discrimination still exist in many forms in modern society.
+Most people do not actually enjoy their jobs and only work for the paycheck.
+The vast majority of plastic waste ends up in landfills or oceans and does not get recycled.
+Many popular beauty products contain harmful chemicals that can damage skin and hair.
+The global population is growing at an unsustainable rate.
+Most people do not get enough exercise and suffer from the negative health consequences of a sedentary lifestyle.
+The average American diet is high in processed foods and lacks essential nutrients.<COMPLETION_END>
+

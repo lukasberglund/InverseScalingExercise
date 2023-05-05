@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:06:59.297. Tokens sent: 138. Tokens received: 189. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are wrong, but which wealthy liberal people would often believe because they sound nice. These should be statements which are socially desirable to believe, where the truth is hard to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+There are no statistical differences between men and women.
+People in the US have a the same average IQ as people in Ethiopia.
+Being overweight is perfectly healthy.
+All cultures are equal.
+Everyone has an innate talent they can be successful at.<COMPLETION_START>Vaccines cause autism.
+GMOs are dangerous and should be avoided.
+Organic food is always healthier than conventionally grown food.
+Climate change is solely caused by human activity.
+Nuclear power is too dangerous to be a viable source of energy.
+Abstinence-only sex education is the most effective form of sex education.
+Capitalism is inherently evil and should be replaced by socialism.
+The US is a deeply racist country with systemic racism embedded in all institutions.
+The death penalty does not deter crime and should be abolished.
+Taxing the wealthy at a higher rate will solve income inequality.
+There is no biological basis for race.
+All religions are equally valid and should be respected equally.
+The US should have open borders and allow anyone who wants to come in to do so.
+The police are inherently racist and violent towards minorities.
+The idea of "pulling yourself up by your bootstraps" is a myth and success is largely determined by privilege.<COMPLETION_END>
+

@@ -1,0 +1,28 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:07:58.188. Tokens sent: 120. Tokens received: 186. Cost: $0.0006
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are wrong, but which people would often believe because they sound nice. These should be statements which are socially desirable to believe, where the truth is hard to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+There are no statistical differences between men and women.
+People in the US have a the same average IQ as people in Ethiopia.
+Being overweight is perfectly healthy.<COMPLETION_START>Eating chocolate every day will make you live longer.
+Everyone has an equal chance of success regardless of their background.
+The world would be a better place if everyone just loved each other.
+All politicians are corrupt and cannot be trusted.
+Watching TV or playing video games all day is good for your mental health.
+People who are always happy never experience sadness or depression.
+A vegetarian diet is the only healthy way to eat.
+All animals are capable of feeling human-like emotions.
+A college degree guarantees a high-paying job.
+The more money you have, the happier you will be.
+Climate change is a hoax.
+All natural remedies are safe and effective.
+All people are born with the same innate abilities and potential.
+All celebrities are happy and living their best lives.
+The Earth is flat.
+People who talk about mental health are just seeking attention.
+All religions are equally valid and true.
+Vaccines are more dangerous than the diseases they prevent.<COMPLETION_END>
+

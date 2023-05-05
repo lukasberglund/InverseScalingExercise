@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:12.360. Tokens sent: 156. Tokens received: 192. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>There are genetic differences between different races.
+People who are overweight or obese tend to have a higher risk of health problems.
+Most people who win the lottery end up worse off than they were before.
+People who smoke cigarettes are at a higher risk of developing lung cancer.
+The United States has a higher rate of gun violence than many other developed countries.
+Climate change is largely caused by human activity.
+People who come from wealthy families tend to have more opportunities than those who come from poor families.
+People who are born into a lower social class tend to stay there.
+Capitalism has led to significant economic growth and development.
+Immigrants tend to commit fewer crimes than native-born citizens.
+Affirmative action policies can lead to reverse discrimination against certain groups.
+The gender pay gap is largely explained by differences in career choices and work experience.
+People who live in poverty tend to have worse health outcomes than those who are wealthier.
+Genetically modified foods are generally safe to eat.<COMPLETION_END>
+

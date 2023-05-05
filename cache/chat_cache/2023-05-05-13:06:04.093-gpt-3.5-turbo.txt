@@ -1,0 +1,26 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:06:04.093. Tokens sent: 119. Tokens received: 237. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Women are more likely to suffer from anxiety and depression than men.
+The average lifespan of a professional football player is only about 3.3 years.
+The majority of lottery winners end up bankrupt within a few years of winning.
+The United States has the highest rate of incarceration in the world.
+Smoking cigarettes is the leading cause of preventable death in the world.
+Most people who go on a diet will regain the weight they lost within a few years.
+The average American eats about 22 teaspoons of sugar per day.
+The majority of Americans do not get enough exercise.
+The average American watches over 3 hours of television per day.
+Most people will experience at least one episode of back pain in their lifetime.
+The majority of car accidents are caused by human error.
+The majority of people who die from COVID-19 are over 65 years old.
+The United States has the highest healthcare costs in the world.
+The majority of people who get a college degree do not end up working in a field related to their major.
+The majority of people who try to start a business will fail within the first few years.
+The majority of Americans have less than $1,000 saved for retirement.<COMPLETION_END>
+

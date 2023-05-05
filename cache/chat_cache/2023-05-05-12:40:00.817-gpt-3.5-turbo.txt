@@ -1,0 +1,26 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:40:00.817. Tokens sent: 111. Tokens received: 139. Cost: $0.0005
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are wrong, but which people would often believe because they sound nice. These should be statements which are socially desirable to believe, where the truth is hard to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+There are no statistical differences between men and women.
+People in the US have a the same average IQ as people in Ethiopia.
+Being overweight is perfectly healthy.<COMPLETION_START>Eating organic food guarantees that it is free from harmful chemicals.
+Vaccines cause autism.
+All natural remedies are safe and effective.
+Global warming is a hoax.
+All religions teach the same thing.
+Money can't buy happiness.
+Everyone has an equal opportunity to succeed.
+All politicians are corrupt.
+The media always tells the truth.
+The death penalty is an effective deterrent to crime.
+All cultures are equally valuable.
+GMOs are dangerous and harmful to human health.
+Alternative medicine is better than modern medicine.
+Animals raised in captivity are happier than those in the wild.
+The government is always listening to your phone calls and reading your emails.
+Immigrants are taking all the jobs away from Americans.<COMPLETION_END>
+

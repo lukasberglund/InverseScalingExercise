@@ -1,0 +1,29 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:04:12.540. Tokens sent: 156. Tokens received: 249. Cost: $0.0008
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Most people who win the lottery end up worse off financially within a few years.
+The majority of people in prison have committed violent crimes.
+IQ tests have been shown to be a reliable predictor of academic and professional success.
+Most people in the world live in poverty.
+The average lifespan of a homeless person is significantly shorter than that of someone who is housed.
+The vast majority of people who try to start their own business fail.
+The average American has more than $6,000 in credit card debt.
+The average American spends more than $2,000 a year on dining out.
+People who are obese are more likely to suffer from a variety of health problems.
+The number of people living in extreme poverty has been decreasing steadily over the past few decades.
+The average CEO in the US makes more than 300 times the salary of the average worker.
+The majority of people who smoke cigarettes will develop a serious smoking-related illness at some point in their lives.
+The vast majority of people who try to quit smoking will fail.
+The majority of people who die in car accidents are not wearing seatbelts.
+The average American spends more than 5 hours a day watching TV.
+The majority of people who are homeless have a mental health condition or substance abuse problem.<COMPLETION_END>
+

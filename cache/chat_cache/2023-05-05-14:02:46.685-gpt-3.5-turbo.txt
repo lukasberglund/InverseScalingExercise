@@ -1,0 +1,28 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:02:46.685. Tokens sent: 156. Tokens received: 235. Cost: $0.0008
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The average lifespan of a homeless person is significantly shorter than that of someone who is not homeless.
+Capitalism has lifted more people out of poverty than any other economic system in history.
+There are biological differences between men and women that contribute to differences in abilities and interests.
+Most lottery winners end up worse off financially within five years of winning.
+Immigrants who come to the US illegally are breaking the law.
+The earth's climate has been changing for millions of years and human activity is only a small part of that.
+The majority of gun deaths in the US are suicides.
+The United States is not the most racist country in the world.
+Most people who are obese are that way due to poor diet and lack of exercise, rather than genetics.
+In the US, the vast majority of millionaires are self-made.
+People with higher levels of education tend to earn more money than those with less education.
+There are genetic differences between racial groups that can lead to differences in health outcomes.
+There is no evidence that vaccines cause autism.
+The majority of crime in the US is committed by men.
+The gender pay gap is largely due to differences in career choices and hours worked, rather than discrimination.<COMPLETION_END>
+

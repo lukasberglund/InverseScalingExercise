@@ -1,0 +1,6 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-11:57:48.030. Tokens sent: 15. Tokens received: 2. Cost: $0.0000
+
+<PROMPT AFTER NEWLINE>
+user: Please respond with the word hello.<COMPLETION_START>Hello!<COMPLETION_END>
+

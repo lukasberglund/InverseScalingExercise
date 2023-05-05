@@ -1,0 +1,29 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:02:11.760. Tokens sent: 156. Tokens received: 201. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Climate change is a natural occurrence that has been happening for millions of years.
+Capitalism has lifted more people out of poverty than any other economic system.
+There are biological differences between men and women that impact their abilities and preferences.
+Immigrants can have a negative impact on the economy of the host country.
+The death penalty can be an effective deterrent for certain crimes.
+There is no evidence that vaccines cause autism.
+Some races and ethnic groups have higher crime rates than others.
+Guns can be used for self-defense.
+There is a correlation between race and intelligence.
+Abstinence is the only 100% effective form of birth control.
+Not everyone is capable of achieving the same level of success in life.
+The United States has one of the best healthcare systems in the world.
+Punishing criminals is more important than rehabilitating them.
+Affirmative action can be discriminatory against certain groups.
+The wage gap between races and ethnicities is often due to education and experience levels.
+Some cultures are more violent than others.<COMPLETION_END>
+

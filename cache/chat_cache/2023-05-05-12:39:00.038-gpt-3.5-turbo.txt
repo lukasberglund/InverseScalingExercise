@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:39:00.038. Tokens sent: 110. Tokens received: 231. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Being overweight or obese is unhealthy and increases the risk of numerous health problems.
+Smoking cigarettes is the leading cause of preventable deaths worldwide.
+Climate change is real and largely caused by human activity.
+The wage gap between men and women exists and is not solely due to personal choices or qualifications.
+Death rates are higher for people who do not receive vaccines.
+The United States has a higher rate of gun violence than other developed countries.
+The use of fossil fuels contributes to air pollution and negative health effects.
+The majority of sexual assaults are committed by someone known to the victim.
+Many popular diets are not sustainable and can lead to long-term health problems.
+The global population is growing at an unsustainable rate.
+Capital punishment does not effectively deter crime.
+The use of plastic is a major contributor to environmental pollution.
+Racism and discrimination still exist in many aspects of society.
+The majority of people who win the lottery end up worse off financially within a few years.
+The majority of car accidents are caused by human error.
+The quality of education in the US varies widely and is largely dependent on socioeconomic status.
+The use of illegal drugs can lead to addiction and negative health consequences.<COMPLETION_END>
+

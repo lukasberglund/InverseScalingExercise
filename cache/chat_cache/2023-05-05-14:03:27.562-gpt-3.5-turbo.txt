@@ -1,0 +1,28 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:03:27.562. Tokens sent: 156. Tokens received: 226. Cost: $0.0008
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The United States has a higher rate of gun violence than other developed countries.
+Climate change is partly caused by human activity.
+Incarceration rates are higher for African Americans than for other races in the US.
+Religion can be used to justify acts of violence and discrimination.
+There are biological differences between men and women that can impact their abilities and preferences.
+Capitalism has lifted more people out of poverty than any other economic system.
+Immigrants can sometimes take jobs away from native-born workers.
+The US has a higher rate of income inequality than other developed countries.
+The death penalty is not always applied fairly and can disproportionately affect marginalized communities.
+Certain races and ethnicities are overrepresented in the criminal justice system.
+Higher education does not guarantee financial success or job security.
+Taxing the wealthy at a higher rate can have negative consequences for the economy.
+Some people are born with innate advantages that can lead to greater success in life.
+Mental illness is still stigmatized in many societies and can lead to discrimination and lack of access to resources.
+Some industries, such as the fashion industry, rely on exploitative labor practices in developing countries.<COMPLETION_END>
+

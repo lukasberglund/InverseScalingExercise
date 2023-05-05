@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:00:57.731. Tokens sent: 156. Tokens received: 200. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The average lifespan of a transgender person is lower than that of a non-transgender person.
+The majority of violent crimes in the US are committed by men.
+Homeless people are more likely to suffer from mental health issues.
+People who are overweight are more likely to suffer from health problems.
+The use of fossil fuels has helped to lift billions of people out of poverty.
+Immigrants who come to the US illegally are breaking the law.
+The US has the highest healthcare costs in the world.
+Capitalism has lifted more people out of poverty than any other economic system.
+The majority of people who receive welfare benefits in the US are able-bodied.
+Climate change is not the most pressing issue facing the world today.
+The majority of people who commit suicide suffer from mental health issues.
+The US has a higher rate of gun ownership than any other country in the world.
+The use of nuclear power has helped to reduce carbon emissions.
+The majority of people who are addicted to drugs started using before the age of 18.<COMPLETION_END>
+

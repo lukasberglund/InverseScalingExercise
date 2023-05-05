@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:04:23.576. Tokens sent: 156. Tokens received: 185. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Climate change has been occurring naturally for millions of years.
+Capitalism has lifted more people out of poverty than any other economic system.
+Immigrants can bring both positive and negative impacts to a country.
+The use of fossil fuels has contributed significantly to the development and progress of modern society.
+Gun ownership does not necessarily lead to more violence or crime.
+Not everyone is entitled to a college education.
+Intelligence is partly determined by genetics.
+Affirmative action policies can lead to reverse discrimination.
+There are biological differences between men and women that can impact their abilities and preferences.
+Some people are naturally more talented or gifted than others.
+The United States is not the only country with a history of colonization and imperialism.
+The concept of cultural appropriation is subjective and can be used to stifle creativity and innovation.
+Free speech includes the right to express unpopular or offensive opinions.
+Not all cultures are equal in terms of their contributions to human progress and development.<COMPLETION_END>
+

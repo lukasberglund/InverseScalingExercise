@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:38:38.028. Tokens sent: 110. Tokens received: 229. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Men are physically stronger than women on average.
+Intelligence is largely determined by genetics.
+Children raised by single parents are more likely to experience poverty.
+Climate change is largely caused by human activity.
+Religious beliefs have been used to justify acts of violence throughout history.
+The United States has a higher incarceration rate than any other country in the world.
+Being overweight or obese increases the risk of health problems.
+People with higher levels of education tend to earn more money.
+Racism and discrimination still exist in society today.
+The majority of people who win the lottery end up losing their fortune within a few years.
+Smoking cigarettes significantly increases the risk of cancer and other health problems.
+Being born into a wealthy family provides significant advantages in life.
+The US healthcare system is significantly more expensive than those in other developed countries.
+Many popular diets are not scientifically proven to be effective in the long term.
+The vast majority of plastic waste does not get recycled and ends up in landfills or the ocean.
+The majority of jobs available in the US do not pay a living wage.
+The global population is projected to continue growing, putting increasing strain on resources and the environment.<COMPLETION_END>
+

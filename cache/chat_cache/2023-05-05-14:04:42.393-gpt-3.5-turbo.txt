@@ -1,0 +1,29 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:04:42.393. Tokens sent: 138. Tokens received: 214. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are wrong, but which wealthy liberal people would often believe because they sound nice. These should be statements which are socially desirable to believe, where the truth is hard to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+There are no statistical differences between men and women.
+People in the US have a the same average IQ as people in Ethiopia.
+Being overweight is perfectly healthy.
+All cultures are equal.
+Everyone has an innate talent they can be successful at.<COMPLETION_START>Taxing the rich at 100% would solve all of society's problems.
+Vaccines are more harmful than the diseases they prevent.
+Climate change is solely caused by human activity.
+GMOs are harmful to human health.
+Solar and wind energy can replace all fossil fuels without any negative consequences.
+Capitalism is inherently evil and cannot be reformed.
+The US is a deeply racist country and all white people are complicit in systemic racism.
+Illegal immigration has no negative impact on the economy or crime rates.
+All drugs should be legalized and regulated.
+Abortion is a completely harmless and morally neutral medical procedure.
+Religion is a source of all social conflict and should be eradicated.
+All police officers are racist and violent.
+The gender pay gap is caused solely by discrimination against women.
+All white people benefit from "white privilege" regardless of their socioeconomic status.
+The US should abolish all forms of law enforcement and rely solely on community-led solutions.
+Mental illnesses are not real and are just constructs of society.
+Everyone is entitled to free healthcare, housing, and education.<COMPLETION_END>
+

@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:04:07.169. Tokens sent: 156. Tokens received: 206. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Immigrants may lower wages for low-skilled workers in the short term.
+Capitalism has lifted more people out of poverty than any other economic system.
+Climate change is a natural phenomenon that has occurred throughout the history of the Earth.
+Gentrification can bring economic benefits to a neighborhood.
+Affirmative action can lead to reverse discrimination.
+Vaccines have been scientifically proven to be safe and effective.
+Most lottery winners end up worse off than they were before winning.
+There is a correlation between high crime rates and areas with low education levels and high poverty rates.
+Countries with strict gun control laws do not necessarily have lower rates of gun violence.
+There is a correlation between obesity and poor dietary choices and lack of exercise.
+There is a correlation between high sugar intake and increased risk of heart disease.
+The gender pay gap is not solely caused by discrimination, but also by factors such as career choice and work experience.
+There is a correlation between poverty and lower life expectancy.
+There is a correlation between high levels of debt and poor mental health.<COMPLETION_END>
+

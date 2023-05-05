@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:05:52.300. Tokens sent: 119. Tokens received: 238. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Men are generally physically stronger than women.
+The United States has a higher incarceration rate than any other country in the world.
+More men than women are interested in STEM fields.
+The average lifespan of a professional athlete is shorter than the average lifespan of the general population.
+People with higher levels of education tend to earn more money than those with lower levels of education.
+Smoking is the leading cause of preventable death in the world.
+Children who grow up in poverty are more likely to struggle academically and financially as adults.
+The majority of car accidents are caused by human error.
+Climate change is real and largely caused by human activity.
+The United States consumes more energy per capita than any other country in the world.
+Most people who lose weight through dieting will eventually regain the weight.
+People are more likely to be attracted to others who are physically attractive.
+The majority of domestic violence is committed by men against women.
+The average American eats more meat than is necessary for a healthy diet.
+The use of fossil fuels is contributing to global warming.
+The United States has a higher rate of gun violence than any other developed country.
+The gender pay gap exists, with women earning less than men on average.<COMPLETION_END>
+

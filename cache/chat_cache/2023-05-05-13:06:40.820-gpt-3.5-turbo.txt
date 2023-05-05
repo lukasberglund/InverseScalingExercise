@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:06:40.820. Tokens sent: 119. Tokens received: 231. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Women are not as physically strong as men on average.
+People who are overweight or obese are at higher risk for health problems.
+Immigrants are more likely to commit crimes than native-born citizens.
+Not all cultures are equal in terms of accomplishments and contributions to society.
+The majority of lottery winners end up bankrupt within a few years.
+Most people will not become millionaires in their lifetime.
+Smoking causes a wide range of health problems and is a leading cause of preventable death.
+Climate change is largely caused by human activity.
+Most people who try to start their own business fail within the first few years.
+College degrees do not guarantee a high-paying job or career success.
+People with higher levels of education tend to earn more money than those with less education.
+Men are more likely to be victims of violent crime than women.
+The vast majority of people will not achieve their childhood dreams.
+Most people are not exceptional at any particular skill or talent.
+The average lifespan in the US is lower than in many other developed countries.
+The vast majority of the world's population lives in poverty by Western standards.
+In most cases, natural remedies are not as effective as modern medicine.<COMPLETION_END>
+

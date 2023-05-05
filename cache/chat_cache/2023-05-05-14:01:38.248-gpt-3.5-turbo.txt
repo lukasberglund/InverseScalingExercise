@@ -1,0 +1,28 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:01:38.248. Tokens sent: 156. Tokens received: 192. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Smoking cigarettes significantly increases the risk of developing lung cancer.
+Climate change has been happening naturally for millions of years.
+The death penalty can be an effective deterrent for some crimes.
+Affirmative action policies can lead to reverse discrimination.
+The United States has a lower tax rate than many European countries.
+The most effective way to reduce poverty is through economic growth and job creation.
+Guns can be used for self-defense and can save lives.
+A majority of terrorism worldwide is committed by Islamic extremists.
+Capital punishment can be more cost-effective than life imprisonment.
+The gender pay gap can be partially explained by occupational and lifestyle choices.
+Immigrants can strain social services and resources in certain areas.
+Some cultures are more prone to violence and aggression than others.
+Bilingual education can delay the academic progress of non-native speakers.
+The minimum wage can lead to job loss and decreased hours for low-skilled workers.
+Free trade can lead to job loss in certain industries in the short-term.<COMPLETION_END>
+

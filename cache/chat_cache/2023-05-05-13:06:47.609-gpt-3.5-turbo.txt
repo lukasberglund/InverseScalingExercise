@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:06:47.609. Tokens sent: 119. Tokens received: 240. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Some racial and ethnic groups have higher rates of certain diseases.
+Some people are just not cut out for certain jobs or careers.
+Most people will never become rich or famous.
+Regular exercise is essential for good health and longevity.
+Many people who claim to be "allergic" to certain foods are actually just experiencing mild discomfort or intolerance.
+Smoking cigarettes is extremely harmful to one's health.
+Climate change is real and largely caused by human activity.
+The vast majority of criminals who are released from prison will eventually reoffend.
+The average lifespan for people with Down Syndrome is shorter than for those without it.
+Parenting is not necessarily a fulfilling or rewarding experience for everyone.
+Many people who claim to be "introverted" are actually just shy or socially awkward.
+Religion is not necessary for a person to live a moral and ethical life.
+Not everyone is attractive or desirable to others.
+The world is not a fair or just place.
+The vast majority of lottery winners end up worse off than they were before winning.
+Some people are simply born with more advantages and opportunities than others.
+Many people who claim to have a "photographic memory" actually have a highly developed ability to recall certain types of information.<COMPLETION_END>
+

@@ -1,0 +1,26 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:03:30.810. Tokens sent: 156. Tokens received: 209. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Immigrants, on average, consume more government benefits than they pay in taxes.
+The majority of crimes in the US are committed by men.
+The average lifespan of a homeless person is significantly shorter than that of a person with a stable home.
+Most lottery winners end up worse off financially within a few years of winning.
+People who are obese tend to have shorter lifespans than those who are not.
+People with higher levels of education tend to earn more money and have more job opportunities.
+Climate change has been occurring naturally for millions of years, but human activity is exacerbating it.
+The majority of drug addicts started using drugs before the age of 18.
+The majority of child abuse is committed by a parent or caregiver.
+The US has a higher incarceration rate than any other country in the world.
+The average American family has less than $4,000 in savings.
+Most people who try to start their own businesses fail within the first few years.
+The majority of people who become homeless do so due to financial hardship, not mental illness or addiction.<COMPLETION_END>
+

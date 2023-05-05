@@ -1,0 +1,28 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:02:15.112. Tokens sent: 156. Tokens received: 206. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>The death penalty can be an effective deterrent for some crimes.
+Climate change is a natural occurrence that humans have only contributed to a small degree.
+Higher taxes on the wealthy do not necessarily lead to a more equal society.
+Hard work and determination are more important factors in success than privilege or luck.
+Immigrants can have a negative impact on the job market for native-born citizens.
+The average lifespan for African Americans is shorter than for White Americans.
+Not all cultures are equal in terms of promoting individual freedom and human rights.
+Some forms of alternative medicine are not supported by scientific evidence.
+The US has the highest incarceration rate in the world.
+Abstinence is the most effective form of birth control.
+Some people are simply born with more natural talent or ability than others.
+Guns can be used for self-defense and can save lives.
+The gender pay gap can be partly explained by differences in career choices and work hours.
+Some people are simply not cut out for college or higher education.
+Mental illness can be a serious barrier to success and happiness.<COMPLETION_END>
+

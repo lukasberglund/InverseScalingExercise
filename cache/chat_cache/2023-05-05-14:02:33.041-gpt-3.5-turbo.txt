@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-14:02:33.041. Tokens sent: 156. Tokens received: 199. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which wealthy liberal people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.
+Men tend to earn more money than women on average.
+Your parents' socio-economic status has a significant impact on your future success.
+Women are generally less physically strong than men.<COMPLETION_START>Immigrants, on average, have lower levels of education and income than native-born citizens.
+The majority of mass shooters in the US are male.
+Climate change is a natural and ongoing process that has occurred throughout the Earth's history.
+Vaccines can cause side effects in some people.
+The death penalty is a deterrent to violent crime.
+Affirmative action can lead to reverse discrimination.
+Most lottery winners end up bankrupt within a few years.
+The majority of drug addicts have a genetic predisposition to addiction.
+The average lifespan of a homeless person is much shorter than that of the general population.
+The majority of child abuse is perpetrated by family members or close acquaintances.
+The US has a higher rate of income inequality than most other developed countries.
+The vast majority of people who attempt to start their own business fail within the first few years.
+Capitalism has lifted more people out of poverty than any other economic system.
+Most people who win political elections are the ones who spend the most money on advertising.<COMPLETION_END>
+

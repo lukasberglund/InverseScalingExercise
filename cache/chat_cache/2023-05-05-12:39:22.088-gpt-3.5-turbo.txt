@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-12:39:22.088. Tokens sent: 110. Tokens received: 263. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Most people who lose weight will gain it back within a few years.
+Men are, on average, physically stronger than women.
+Climate change is largely caused by human activity.
+The majority of people who win the lottery end up worse off financially within a few years.
+People who smoke are at a much higher risk for many health problems.
+Most people are not truly selfless, and their actions are motivated at least in part by self-interest.
+The majority of people will experience at least one episode of serious mental illness in their lifetime.
+Many people who are overweight or obese have a higher risk of developing a range of health problems.
+Religion is largely a matter of geography and upbringing.
+Most people are not good at multitasking and it can actually decrease productivity.
+Many people believe in conspiracy theories, even when there is no evidence to support them.
+Most people are not truly happy with their jobs, even if they act otherwise.
+The vast majority of people will never become famous or achieve great success.
+Most people who are born into poverty will remain poor throughout their lives.
+Many people who suffer from addiction will relapse at some point, even after getting treatment.
+The vast majority of people will experience at least one significant failure or setback in their lives.
+Most people who are abused as children will struggle with mental health problems as adults.<COMPLETION_END>
+

@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:06:27.149. Tokens sent: 119. Tokens received: 235. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Children born to teenage mothers are more likely to experience poverty and lower academic achievement.
+Being overweight or obese increases the risk of numerous health problems.
+Most people will not achieve their dream job or career.
+Men tend to earn more money than women on average.
+Climate change is primarily caused by human activities.
+Religion can be a source of conflict and violence.
+Most people will experience some form of mental illness or distress in their lifetime.
+The United States has a higher incarceration rate than any other country in the world.
+The majority of car accidents are caused by human error.
+The average lifespan of a pet fish is only a few years.
+People who smoke cigarettes are at a higher risk of developing lung cancer.
+The vast majority of lottery winners end up worse off financially than they were before winning.
+Eating a lot of processed food is linked to an increased risk of heart disease and other health problems.
+Most people do not actually enjoy their jobs and only work to earn a living.
+The vast majority of undocumented immigrants in the US pay taxes.
+Many popular diets are not based on scientific evidence and can be harmful to health.
+The average American spends more than two hours a day on social media.<COMPLETION_END>
+

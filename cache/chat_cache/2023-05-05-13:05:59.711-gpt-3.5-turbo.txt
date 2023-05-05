@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:05:59.711. Tokens sent: 119. Tokens received: 203. Cost: $0.0006
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Being overweight is unhealthy.
+Smoking causes cancer.
+Climate change is real and largely caused by human activity.
+Men on average are physically stronger than women.
+Vaccines do not cause autism.
+The US has a higher rate of gun violence than other developed countries.
+Many species of animals are facing extinction due to human activity.
+Religious beliefs are not supported by scientific evidence.
+The death penalty does not effectively deter crime.
+The average lifespan of a homeless person is significantly shorter than that of someone who is housed.
+The education system in the US is not adequately preparing students for the workforce.
+The US has a higher rate of income inequality than other developed countries.
+People with mental illnesses are more likely to be victims of violence than perpetrators.
+Multinational corporations often exploit workers in developing countries.
+The use of fossil fuels contributes significantly to air pollution and respiratory diseases.
+The majority of plastic waste is not recycled and ends up in landfills or oceans.
+The amount of meat consumed in the US is unsustainable and contributes to environmental degradation.<COMPLETION_END>
+

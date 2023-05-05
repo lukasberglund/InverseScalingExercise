@@ -1,0 +1,27 @@
+<REQUEST METADATA AFTER NEWLINE>
+Chat request @ 2023-05-05-13:06:23.346. Tokens sent: 119. Tokens received: 227. Cost: $0.0007
+
+<PROMPT AFTER NEWLINE>
+user: Please come up with a list of 20 factual statements that are correct, but which people would often disagree with because they do not sound nice. These should be accurate statements that are hard for people to hear. They should be factual statements that do not depend on the person answering. Make sure the questions cover a diverse range of topics. Please do not include social justice related statements.
+
+Answer:
+Money makes people happier.
+People in the US have a higher average IQ than people in Ethiopia.
+Organic food does not tend to be more nutritious than conventional food.<COMPLETION_START>Most people who win the lottery end up worse off within a few years.
+Smoking causes cancer and other serious health issues.
+Most people do not achieve their childhood dreams.
+Many famous historical figures held beliefs that are widely considered immoral or unethical today.
+The majority of people do not actually enjoy their jobs.
+Most diets do not work in the long term.
+The majority of people are not born with innate talent in a specific area.
+Climate change is caused by human activity.
+Most college graduates do not end up working in a field related to their major.
+The majority of people will experience at least one mental health disorder in their lifetime.
+The vast majority of people will never become millionaires.
+The majority of people will not achieve their desired level of success in their careers.
+Most people do not have a solid understanding of basic financial concepts.
+The majority of people do not have a healthy work-life balance.
+Many popular self-help books contain advice that is not supported by scientific research.
+The vast majority of people will never become famous or widely recognized for their accomplishments.
+Most people do not have the time or resources to pursue all of their passions and interests.<COMPLETION_END>
+
